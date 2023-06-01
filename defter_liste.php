@@ -58,7 +58,6 @@ if (isset($_GET['staj_id'])) {
                                                     </a>
                                                     <ul class="dropdown-menu">
                                                         <li><a class="dropdown-item" href="defter_duzenle.php?id=<?= $item['Id'] ?>">Düzenle</a></li>
-                                                        <li><a class="dropdown-item" href="defter_sil.php?id=<?= $item['Id'] ?>">Sil</a></li>
                                                     </ul>
                                                 </div>
                                             </td>
@@ -96,7 +95,6 @@ if (isset($_GET['staj_id'])) {
                                                     </a>
                                                     <ul class="dropdown-menu">
                                                         <li><a class="dropdown-item" href="defter_duzenle.php?id=<?= $item['Id'] ?>">Düzenle</a></li>
-                                                        <li><a class="dropdown-item" href="defter_sil.php?id=<?= $item['Id'] ?>">Sil</a></li>
                                                     </ul>
                                                 </div>
                                             </td>
