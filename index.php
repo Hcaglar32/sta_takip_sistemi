@@ -57,7 +57,7 @@ include('includes/header.php');
   <!--Hakkımızda Bitis-->
 
   <!--Ekibimiz Baslangıc-->
-  <h2 class="mb-3 font-weight-bold text-center">Kartlar</h2>
+  <h2 class="mb-3 font-weight-bold text-center">Staj Kartları</h2>
   <hr class="ayrac"><i class="fa-duotone fa-book ibeyaz"></i>
   <div class="xop-banner" id="banner">
     <div class="site-container">
